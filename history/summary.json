@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/saltbo.cn",
     "slug": "blog",
     "status": "up",
-    "uptime": "80.77%",
-    "uptimeDay": "80.77%",
-    "uptimeWeek": "80.77%",
-    "uptimeMonth": "80.77%",
-    "uptimeYear": "80.77%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2233,
     "timeDay": 2233,
     "timeWeek": 2233,
     "timeMonth": 2233,
     "timeYear": 2233,
-    "dailyMinutesDown": {
-      "2022-02-10": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mirrors",
