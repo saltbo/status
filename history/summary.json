@@ -4,9 +4,9 @@
     "url": "https://saltbo.cn",
     "icon": "https://favicons.githubusercontent.com/saltbo.cn",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 2701,
     "timeMonth": 2701,
     "timeYear": 2701,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-14": 0
+    }
   },
   {
     "name": "Mirrors",
@@ -23,11 +25,11 @@
     "icon": "https://favicons.githubusercontent.com/mirrors.saltbo.cn",
     "slug": "mirrors",
     "status": "up",
-    "uptime": "99.63%",
+    "uptime": "99.66%",
     "uptimeDay": "98.62%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.63%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
     "time": 862,
     "timeDay": 826,
     "timeWeek": 862,
