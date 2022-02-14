@@ -22,7 +22,7 @@
     "url": "https://mirrors.saltbo.cn",
     "icon": "https://favicons.githubusercontent.com/mirrors.saltbo.cn",
     "slug": "mirrors",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 866,
     "timeMonth": 866,
     "timeYear": 866,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-14": 0
+    }
   },
   {
     "name": "Disqus",
