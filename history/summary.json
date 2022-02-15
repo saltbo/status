@@ -4,19 +4,19 @@
     "url": "https://saltbo.cn",
     "icon": "https://favicons.githubusercontent.com/saltbo.cn",
     "slug": "blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2432,
-    "timeDay": 1894,
-    "timeWeek": 2432,
-    "timeMonth": 2432,
-    "timeYear": 2432,
+    "status": "up",
+    "uptime": "99.64%",
+    "uptimeDay": "98.17%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.64%",
+    "time": 2532,
+    "timeDay": 2252,
+    "timeWeek": 2532,
+    "timeMonth": 2532,
+    "timeYear": 2532,
     "dailyMinutesDown": {
-      "2022-02-15": 0
+      "2022-02-15": 26
     }
   },
   {
