@@ -5,14 +5,14 @@
     "icon": "https://favicons.githubusercontent.com/saltbo.cn",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.65%",
+    "uptime": "99.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
     "time": 2155,
     "timeDay": 2030,
-    "timeWeek": 1913,
+    "timeWeek": 1916,
     "timeMonth": 2155,
     "timeYear": 2155,
     "dailyMinutesDown": {
@@ -101,9 +101,9 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -112,7 +112,9 @@
     "timeWeek": 228,
     "timeMonth": 224,
     "timeYear": 224,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-01": 0
+    }
   },
   {
     "name": "Hacker News",
@@ -121,17 +123,15 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 360,
     "timeDay": 350,
     "timeWeek": 355,
     "timeMonth": 360,
     "timeYear": 360,
-    "dailyMinutesDown": {
-      "2022-03-01": 14
-    }
+    "dailyMinutesDown": {}
   }
 ]
