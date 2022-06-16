@@ -86,19 +86,19 @@
     "url": "https://yanbo.me",
     "icon": "https://favicons.githubusercontent.com/yanbo.me",
     "slug": "me",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 271,
-    "timeDay": 98,
-    "timeWeek": 132,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.93%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
+    "time": 270,
+    "timeDay": 122,
+    "timeWeek": 136,
     "timeMonth": 149,
-    "timeYear": 271,
+    "timeYear": 270,
     "dailyMinutesDown": {
-      "2022-06-16": 0
+      "2022-06-16": 30
     }
   },
   {
