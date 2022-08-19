@@ -81,19 +81,19 @@
     "url": "https://disqus.saltbo.cn",
     "icon": "https://favicons.githubusercontent.com/disqus.saltbo.cn",
     "slug": "disqus",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 828,
-    "timeDay": 690,
-    "timeWeek": 815,
-    "timeMonth": 852,
-    "timeYear": 828,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 827,
+    "timeDay": 672,
+    "timeWeek": 795,
+    "timeMonth": 845,
+    "timeYear": 827,
     "dailyMinutesDown": {
-      "2022-08-19": 0
+      "2022-08-19": 21
     }
   },
   {
