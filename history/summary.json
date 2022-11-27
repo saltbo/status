@@ -72,9 +72,9 @@
     "url": "https://mirrors.saltbo.cn",
     "icon": "https://icons.duckduckgo.com/ip3/mirrors.saltbo.cn.ico",
     "slug": "mirrors",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -84,6 +84,7 @@
     "timeMonth": 839,
     "timeYear": 836,
     "dailyMinutesDown": {
+      "2022-11-27": 0,
       "2022-10-03": 48,
       "2022-02-14": 20
     }
@@ -166,7 +167,7 @@
     "time": 239,
     "timeDay": 252,
     "timeWeek": 179,
-    "timeMonth": 471,
+    "timeMonth": 177,
     "timeYear": 239,
     "dailyMinutesDown": {
       "2022-05-21": 19,
