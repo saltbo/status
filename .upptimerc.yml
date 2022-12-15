@@ -9,14 +9,10 @@ sites:
     url: https://mirrors.saltbo.cn
   - name: Disqus
     url: https://disqus.saltbo.cn
-  - name: ME
-    url: https://yanbo.me
+  - name: Bitwarden
+    url: https://bitwarden.saltbo.fun
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
