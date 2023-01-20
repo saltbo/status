@@ -74,9 +74,9 @@
     "slug": "disqus",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 949,
     "timeDay": 7040,
@@ -84,7 +84,6 @@
     "timeMonth": 1422,
     "timeYear": 949,
     "dailyMinutesDown": {
-      "2023-01-19": 11,
       "2022-11-05": 20,
       "2022-11-04": 5,
       "2022-08-19": 21
