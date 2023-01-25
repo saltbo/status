@@ -6,9 +6,9 @@
     "slug": "blog",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
     "time": 2046,
     "timeDay": 2676,
@@ -16,7 +16,6 @@
     "timeMonth": 2226,
     "timeYear": 2046,
     "dailyMinutesDown": {
-      "2023-01-25": 6,
       "2022-11-21": 19,
       "2022-11-11": 21,
       "2022-10-29": 15,
@@ -95,9 +94,9 @@
     "url": "https://bitwarden.saltbo.fun",
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.saltbo.fun.ico",
     "slug": "bitwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -106,7 +105,9 @@
     "timeWeek": 1131,
     "timeMonth": 986,
     "timeYear": 1000,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   },
   {
     "name": "Google",
