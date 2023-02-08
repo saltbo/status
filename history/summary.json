@@ -4,10 +4,10 @@
     "url": "https://saltbo.cn",
     "icon": "https://icons.duckduckgo.com/ip3/saltbo.cn.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.69%",
     "time": 2090,
@@ -16,6 +16,7 @@
     "timeMonth": 2769,
     "timeYear": 2090,
     "dailyMinutesDown": {
+      "2023-02-08": 1,
       "2023-01-25": 16,
       "2022-11-21": 19,
       "2022-11-11": 21,
@@ -95,9 +96,9 @@
     "url": "https://bitwarden.saltbo.fun",
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.saltbo.fun.ico",
     "slug": "bitwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
@@ -107,6 +108,7 @@
     "timeMonth": 1214,
     "timeYear": 1116,
     "dailyMinutesDown": {
+      "2023-02-08": 0,
       "2023-01-25": 24
     }
   },
