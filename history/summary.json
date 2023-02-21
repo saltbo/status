@@ -11,9 +11,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.70%",
     "time": 2098,
-    "timeDay": 1901,
-    "timeWeek": 2189,
-    "timeMonth": 2789,
+    "timeDay": 1961,
+    "timeWeek": 2206,
+    "timeMonth": 2784,
     "timeYear": 2087,
     "dailyMinutesDown": {
       "2023-01-25": 16,
@@ -62,8 +62,7 @@
       "2022-03-09": 26,
       "2022-03-04": 15,
       "2022-03-03": 15,
-      "2022-02-26": 22,
-      "2022-02-21": 27
+      "2022-02-26": 22
     }
   },
   {
@@ -78,8 +77,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 956,
-    "timeDay": 1017,
-    "timeWeek": 947,
+    "timeDay": 902,
+    "timeWeek": 938,
     "timeMonth": 1034,
     "timeYear": 965,
     "dailyMinutesDown": {
@@ -94,16 +93,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.saltbo.fun.ico",
     "slug": "bitwarden",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.97%",
-    "time": 1108,
-    "timeDay": 1113,
+    "uptimeYear": "99.98%",
+    "time": 1104,
+    "timeDay": 829,
     "timeWeek": 1033,
-    "timeMonth": 1253,
-    "timeYear": 1108,
+    "timeMonth": 1241,
+    "timeYear": 1104,
     "dailyMinutesDown": {
       "2023-01-25": 24
     }
@@ -120,10 +119,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 92,
-    "timeDay": 85,
-    "timeWeek": 98,
-    "timeMonth": 101,
-    "timeYear": 93,
+    "timeDay": 90,
+    "timeWeek": 96,
+    "timeMonth": 99,
+    "timeYear": 94,
     "dailyMinutesDown": {}
   }
 ]
