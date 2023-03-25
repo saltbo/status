@@ -12,7 +12,7 @@
     "uptimeYear": "99.71%",
     "time": 2203,
     "timeDay": 2644,
-    "timeWeek": 2343,
+    "timeWeek": 2361,
     "timeMonth": 3158,
     "timeYear": 2211,
     "dailyMinutesDown": {
@@ -87,18 +87,19 @@
     "url": "https://bitwarden.saltbo.fun",
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.saltbo.fun.ico",
     "slug": "bitwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.95%",
     "time": 1451,
-    "timeDay": 1045,
+    "timeDay": 1062,
     "timeWeek": 1203,
     "timeMonth": 1880,
     "timeYear": 1451,
     "dailyMinutesDown": {
+      "2023-03-25": 0,
       "2023-02-27": 42,
       "2023-01-25": 24
     }
