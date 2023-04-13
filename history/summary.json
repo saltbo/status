@@ -6,17 +6,16 @@
     "slug": "blog",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.70%",
-    "time": 2284,
-    "timeDay": 2825,
-    "timeWeek": 2728,
-    "timeMonth": 3004,
-    "timeYear": 2334,
+    "time": 2285,
+    "timeDay": 3191,
+    "timeWeek": 2735,
+    "timeMonth": 3009,
+    "timeYear": 2337,
     "dailyMinutesDown": {
-      "2023-04-12": 10,
       "2023-04-02": 19,
       "2023-03-28": 24,
       "2023-03-22": 15,
@@ -59,8 +58,7 @@
       "2022-05-18": 24,
       "2022-05-17": 23,
       "2022-05-16": 21,
-      "2022-05-14": 24,
-      "2022-04-13": 21
+      "2022-05-14": 24
     }
   },
   {
@@ -74,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 965,
-    "timeDay": 1123,
-    "timeWeek": 1231,
-    "timeMonth": 1089,
-    "timeYear": 995,
+    "time": 966,
+    "timeDay": 1124,
+    "timeWeek": 1218,
+    "timeMonth": 1096,
+    "timeYear": 997,
     "dailyMinutesDown": {
       "2022-11-05": 20,
       "2022-11-04": 5,
@@ -96,11 +94,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1429,
-    "timeDay": 1251,
-    "timeWeek": 1457,
-    "timeMonth": 1297,
-    "timeYear": 1429,
+    "time": 1428,
+    "timeDay": 1209,
+    "timeWeek": 1458,
+    "timeMonth": 1298,
+    "timeYear": 1428,
     "dailyMinutesDown": {
       "2023-02-27": 42,
       "2023-01-25": 24
@@ -118,10 +116,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 94,
-    "timeDay": 77,
+    "timeDay": 367,
     "timeWeek": 165,
-    "timeMonth": 105,
-    "timeYear": 97,
+    "timeMonth": 115,
+    "timeYear": 98,
     "dailyMinutesDown": {}
   }
 ]
