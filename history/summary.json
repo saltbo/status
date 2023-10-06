@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/saltbo.cn.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.42%",
+    "uptime": "99.75%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.43%",
     "uptimeYear": "99.87%",
     "time": 2543,
     "timeDay": 2366,
@@ -16,7 +16,6 @@
     "timeMonth": 3152,
     "timeYear": 2600,
     "dailyMinutesDown": {
-      "2023-10-06": 8,
       "2023-09-26": 18,
       "2023-09-25": 20,
       "2023-09-20": 21,
@@ -93,17 +92,19 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 114,
-    "timeDay": 79,
-    "timeWeek": 140,
-    "timeMonth": 174,
-    "timeYear": 119,
-    "dailyMinutesDown": {}
+    "time": 115,
+    "timeDay": 271,
+    "timeWeek": 181,
+    "timeMonth": 181,
+    "timeYear": 120,
+    "dailyMinutesDown": {
+      "2023-10-06": 0
+    }
   }
 ]
