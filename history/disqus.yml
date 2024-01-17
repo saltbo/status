@@ -1,7 +1,7 @@
 url: https://disqus.saltbo.cn
-status: up
-code: 200
-responseTime: 760
-lastUpdated: 2024-01-16T23:01:34.686Z
+status: down
+code: 500
+responseTime: 787
+lastUpdated: 2024-01-17T21:42:28.467Z
 startTime: 2022-02-10T15:50:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
