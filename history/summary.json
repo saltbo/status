@@ -6,9 +6,9 @@
     "slug": "blog",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "20.75%",
-    "uptimeWeek": "87.54%",
-    "uptimeMonth": "96.87%",
+    "uptimeDay": "24.81%",
+    "uptimeWeek": "87.61%",
+    "uptimeMonth": "96.89%",
     "uptimeYear": "99.60%",
     "time": 1940,
     "timeDay": 1647,
@@ -16,7 +16,7 @@
     "timeMonth": 1815,
     "timeYear": 1896,
     "dailyMinutesDown": {
-      "2024-11-23": 1117,
+      "2024-11-23": 1111,
       "2024-11-22": 83,
       "2024-11-21": 1,
       "2024-11-20": 37,
@@ -88,8 +88,7 @@
     "timeYear": 1193,
     "dailyMinutesDown": {
       "2024-06-12": 24,
-      "2024-01-24": 81,
-      "2023-11-25": 227
+      "2024-01-24": 81
     }
   },
   {
