@@ -1,7 +1,7 @@
 url: https://saltbo.cn
-status: up
-code: 200
-responseTime: 1684
-lastUpdated: 2024-12-26T07:47:20.736Z
+status: down
+code: 502
+responseTime: 3246
+lastUpdated: 2024-12-26T08:47:15.097Z
 startTime: 2022-02-10T15:50:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
