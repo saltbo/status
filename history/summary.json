@@ -85,9 +85,9 @@
     "url": "https://disqus.saltbo.cn",
     "icon": "https://icons.duckduckgo.com/ip3/disqus.saltbo.cn.ico",
     "slug": "disqus",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -96,7 +96,9 @@
     "timeWeek": 937,
     "timeMonth": 976,
     "timeYear": 1002,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-03": 0
+    }
   },
   {
     "name": "Bitwarden",
