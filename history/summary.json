@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/saltbo.cn.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "94.18%",
-    "uptimeMonth": "98.38%",
+    "uptime": "99.61%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "94.23%",
+    "uptimeMonth": "98.46%",
     "uptimeYear": "99.32%",
     "time": 1876,
-    "timeDay": 1440,
-    "timeWeek": 1546,
-    "timeMonth": 1717,
+    "timeDay": 1476,
+    "timeWeek": 1561,
+    "timeMonth": 1722,
     "timeYear": 1870,
     "dailyMinutesDown": {
-      "2025-05-13": 5,
       "2025-05-12": 33,
       "2025-05-11": 17,
       "2025-05-09": 38,
@@ -85,8 +84,7 @@
       "2024-08-29": 21,
       "2024-08-25": 18,
       "2024-07-27": 22,
-      "2024-07-12": 15,
-      "2024-05-14": 23
+      "2024-07-12": 15
     }
   },
   {
@@ -100,10 +98,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 979,
-    "timeDay": 1266,
-    "timeWeek": 999,
-    "timeMonth": 952,
+    "time": 980,
+    "timeDay": 1170,
+    "timeWeek": 996,
+    "timeMonth": 960,
     "timeYear": 994,
     "dailyMinutesDown": {
       "2025-04-03": 36
@@ -121,9 +119,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1191,
-    "timeDay": 1144,
-    "timeWeek": 1198,
-    "timeMonth": 1151,
+    "timeDay": 1343,
+    "timeWeek": 1192,
+    "timeMonth": 1154,
     "timeYear": 1200,
     "dailyMinutesDown": {
       "2024-06-12": 24
@@ -141,8 +139,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 80,
-    "timeWeek": 149,
+    "timeDay": 82,
+    "timeWeek": 133,
     "timeMonth": 111,
     "timeYear": 116,
     "dailyMinutesDown": {}
