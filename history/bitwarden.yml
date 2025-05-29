@@ -1,7 +1,7 @@
 url: https://bitwarden.saltbo.fun
-status: down
-code: 404
-responseTime: 1511
-lastUpdated: 2025-05-29T18:04:46.929Z
+status: up
+code: 200
+responseTime: 1225
+lastUpdated: 2025-05-29T18:14:54.684Z
 startTime: 2022-12-15T01:09:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
