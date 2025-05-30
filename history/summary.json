@@ -11,9 +11,9 @@
     "uptimeMonth": "98.49%",
     "uptimeYear": "99.32%",
     "time": 1873,
-    "timeDay": 1431,
-    "timeWeek": 1663,
-    "timeMonth": 1640,
+    "timeDay": 1813,
+    "timeWeek": 1690,
+    "timeMonth": 1642,
     "timeYear": 1862,
     "dailyMinutesDown": {
       "2025-05-26": 25,
@@ -101,10 +101,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 986,
-    "timeDay": 841,
-    "timeWeek": 971,
-    "timeMonth": 996,
-    "timeYear": 998,
+    "timeDay": 904,
+    "timeWeek": 924,
+    "timeMonth": 999,
+    "timeYear": 997,
     "dailyMinutesDown": {
       "2025-04-03": 36
     }
@@ -116,17 +116,16 @@
     "slug": "bitwarden",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1191,
-    "timeDay": 1267,
-    "timeWeek": 1196,
-    "timeMonth": 1205,
-    "timeYear": 1200,
+    "timeDay": 1326,
+    "timeWeek": 1212,
+    "timeMonth": 1207,
+    "timeYear": 1199,
     "dailyMinutesDown": {
-      "2025-05-29": 10,
       "2024-06-12": 24
     }
   },
@@ -142,10 +141,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 114,
-    "timeDay": 94,
-    "timeWeek": 97,
-    "timeMonth": 111,
-    "timeYear": 117,
+    "timeDay": 141,
+    "timeWeek": 99,
+    "timeMonth": 113,
+    "timeYear": 118,
     "dailyMinutesDown": {}
   }
 ]
