@@ -11,8 +11,8 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.32%",
     "time": 1861,
-    "timeDay": 1444,
-    "timeWeek": 1665,
+    "timeDay": 1579,
+    "timeWeek": 1687,
     "timeMonth": 1640,
     "timeYear": 1859,
     "dailyMinutesDown": {
@@ -100,10 +100,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 994,
-    "timeDay": 1068,
-    "timeWeek": 893,
-    "timeMonth": 1026,
+    "time": 995,
+    "timeDay": 1110,
+    "timeWeek": 952,
+    "timeMonth": 1022,
     "timeYear": 1002,
     "dailyMinutesDown": {
       "2025-04-03": 36
@@ -116,18 +116,16 @@
     "slug": "bitwarden",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1190,
-    "timeDay": 1087,
-    "timeWeek": 1069,
-    "timeMonth": 1155,
-    "timeYear": 1172,
-    "dailyMinutesDown": {
-      "2025-06-17": 10
-    }
+    "time": 1189,
+    "timeDay": 1022,
+    "timeWeek": 1032,
+    "timeMonth": 1139,
+    "timeYear": 1171,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Google",
@@ -141,8 +139,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 114,
-    "timeDay": 100,
-    "timeWeek": 103,
+    "timeDay": 101,
+    "timeWeek": 101,
     "timeMonth": 95,
     "timeYear": 117,
     "dailyMinutesDown": {}
