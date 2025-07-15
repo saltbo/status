@@ -96,11 +96,11 @@
     "url": "https://disqus.saltbo.cn",
     "icon": "https://icons.duckduckgo.com/ip3/disqus.saltbo.cn.ico",
     "slug": "disqus",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1001,
     "timeDay": 1152,
@@ -108,7 +108,7 @@
     "timeMonth": 993,
     "timeYear": 992,
     "dailyMinutesDown": {
-      "2025-07-15": 11,
+      "2025-07-15": 0,
       "2025-04-03": 36
     }
   },
