@@ -4,9 +4,9 @@
     "url": "https://saltbo.cn",
     "icon": "https://icons.duckduckgo.com/ip3/saltbo.cn.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1888,
     "timeYear": 1850,
     "dailyMinutesDown": {
+      "2025-08-21": 0,
       "2025-08-19": 31,
       "2025-07-24": 18,
       "2025-07-10": 451,
@@ -140,9 +141,9 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 114,
     "timeDay": 241,
@@ -150,7 +151,6 @@
     "timeMonth": 110,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2025-08-21": 6,
       "2025-06-22": 32
     }
   }
