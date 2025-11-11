@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/saltbo.cn.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.71%",
-    "uptimeDay": "94.06%",
-    "uptimeWeek": "98.97%",
-    "uptimeMonth": "99.59%",
+    "uptime": "99.70%",
+    "uptimeDay": "94.64%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.60%",
     "uptimeYear": "99.03%",
     "time": 1825,
     "timeDay": 1782,
@@ -16,7 +16,7 @@
     "timeMonth": 1813,
     "timeYear": 1826,
     "dailyMinutesDown": {
-      "2025-11-11": 85,
+      "2025-11-11": 77,
       "2025-11-08": 18,
       "2025-10-30": 15,
       "2025-10-28": 27,
@@ -91,9 +91,9 @@
     "url": "https://disqus.saltbo.cn",
     "icon": "https://icons.duckduckgo.com/ip3/disqus.saltbo.cn.ico",
     "slug": "disqus",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -103,6 +103,7 @@
     "timeMonth": 952,
     "timeYear": 1044,
     "dailyMinutesDown": {
+      "2025-11-11": 0,
       "2025-09-22": 38,
       "2025-04-03": 36
     }
