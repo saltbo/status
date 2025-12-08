@@ -4,7 +4,7 @@
     "url": "https://saltbo.cn",
     "icon": "https://icons.duckduckgo.com/ip3/saltbo.cn.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -14,7 +14,7 @@
     "timeDay": 1485,
     "timeWeek": 1693,
     "timeMonth": 1652,
-    "timeYear": 1823,
+    "timeYear": 1822,
     "dailyMinutesDown": {
       "2025-11-11": 77,
       "2025-11-08": 18,
